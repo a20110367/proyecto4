@@ -1,1 +1,2 @@
 Inicializamos fichero1 en rama1
+Esta linea se creo en local
